@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;pinyougou-manager-web/src/main/webapp/js/service/brandService&apos; to &apos;brandService.js&apos;" description="Rename resource &apos;brandService&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/js/service/brandService" name="brandService.js" stamp="1530070427333" updateReferences="true"/>
+</session>

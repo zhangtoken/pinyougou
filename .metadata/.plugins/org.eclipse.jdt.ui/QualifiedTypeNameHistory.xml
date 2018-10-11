@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.pinyougou.mapper.TbBrandMapper"/>
+<fullyQualifiedTypeName name="com.alibaba.dubbo.config.annotation.Service"/>
+<fullyQualifiedTypeName name="com.alibaba.dubbo.config.annotation.Reference"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+<fullyQualifiedTypeName name="com.alibaba.dubbo.container.page.PageHandler"/>
+<fullyQualifiedTypeName name="com.github.pagehelper.PageHelper"/>
+<fullyQualifiedTypeName name="com.github.pagehelper.Page"/>
+<fullyQualifiedTypeName name="entity.PageResult"/>
+<fullyQualifiedTypeName name="com.pinyougou.sellergoods.service.BrandService"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.view.tiles3.TilesView"/>
+<fullyQualifiedTypeName name="com.pinyougou.pojo.TbBrandExample"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+<fullyQualifiedTypeName name="com.pinyougou.pojo.TbBrand"/>
+<fullyQualifiedTypeName name="java.awt.image.LookupOp"/>
+<fullyQualifiedTypeName name="java.lang.Long"/>
+<fullyQualifiedTypeName name="com.pinyougou.grouppojo.SpecificationVO"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="com.pinyougou.mapper.TbSpecificationOptionMapper"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="entity.Result"/>
+<fullyQualifiedTypeName name="com.pinyougou.grouppojo.Specification"/>
+<fullyQualifiedTypeName name="com.pinyougou.pojo.TbSpecificationOptionExample"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.config.annotation.EnableWebMvc"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+</qualifiedTypeNameHistroy>
